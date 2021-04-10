@@ -1,0 +1,16 @@
+{
+  "name":"開啟新檔",
+  "description":"分享設計、身心障礙者生活困難&一些可以使用的社會福利、網路熱門話、題職場話題",
+ "author": "輪椅小子",
+ "color": "#F5F6F7",
+ "url": "https://pod.link/1551576391/"
+ "feed": "https://open.firstory.me/rss/user/ckinijs2s8ksk08076nl2pu1w"
+ "apple": "https://podcasts.apple.com/podcast/id1551576391?mt=2&app=podcast&ls=1",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuLmZpcnN0b3J5Lm1lL3Jzcy91c2VyL2NraW5panMyczhrc2swODA3Nm5sMnB1MXc",
+  "spotify": "https://open.spotify.com/show/2yjLMAv5mH0LopxapV4snC",
+  overcast": "null",
+  pcast":  "https://pca.st/bhw0ueln",
+  "breaker": null,
+  "typlog": false,
+  "blocked": false
+}
